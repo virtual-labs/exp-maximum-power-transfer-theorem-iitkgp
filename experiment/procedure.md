@@ -53,3 +53,4 @@
 							<p>&nbsp;</p>
 							<p style="text-align: center;"> V<sub>LS</sub>= V<sub>CL</sub>&nbsp; &nbsp;i.e. V<sub>2</sub>=V<sub>6&nbsp;</sub>;</p>
 							<p>&nbsp;</p>
+							<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
