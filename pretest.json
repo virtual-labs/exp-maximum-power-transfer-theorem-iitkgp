@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The maximum power is delivered from a source to its load when the load resistance is ______ the source resistance.",
+      "answers": {
+        "a": "greater than",
+        "b": "less than",
+        "c": "equal to",
+        "d": "less than or equal to"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If source impedance is complex, then maximum power transfer occurs when the load impedance is _______ the source impedance.",
+      "answers": {
+        "a": "equal to",
+        "b": "negative of",
+        "c": "complex conjugate of",
+        "d": "negative of complex conjugate of"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
