@@ -19,7 +19,9 @@ $$|I|_{max} = \frac{V_s}{R_s+R_L} . . . . . . . . . . . (2) $$
 							<h2>2. When only R<sub>L</sub> is adjustable: </h2>
 							<p>From equation (1) in section (1), one may write,&nbsp; </p><br>
 
-$$ P = |I^2|*R_L = \frac{V_s^2*R_L}{(R_s+ R_L)^2 +(X_s+ X_L)^2} . . . (3) $$
+
+$$ P = |I^2|* R_L = \frac{V_s^2 * R_L}{(R_s + R_L)^2 + (X_s + X_L)^2}  . . . (3) $$
+
 
 Differentiating the equation (3) w.r.t&nbsp; R<sub>L </sub>and equating to zero, one obtains. 
 
