@@ -2,38 +2,108 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What should be the value of  R<sub>L</sub> so the maximum power can be transferred from the source to R<sub>L</sub> in the circuit.<br/><p style=\"text-align:center\"><img src=\"images/max1.jpg\" style=\"width:450px;height:280px;\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1Ω , 73.13W",
+        "b": "5.4Ω , 53.13W",
+        "c": "2.53Ω , 53.13W",
+        "d": "1.54Ω , 73.13W"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen correct answer"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Find the value of R<sub>L</sub> in figure that results in maximum power transfer and find the maximum power deliver to load.<br/><p style=\"text-align:center\"><img src=\"images/max2.jpg\" style=\"width:450px;height:280px;\"></p>",
+      "answers": {
+        "a": "5Ω , 125W",
+        "b": "10Ω , 125W",
+        "c": "5Ω , 120W",
+        "d": "10Ω , 120W"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Determine the impedance Z<sub>L</sub> for maximum average power transfer and the value of the maximum average power transferred to Z<sub>L</sub> for the circuit shown in the figure. <br/><p style=\"text-align:center\"><img src=\"images/max3.jpg\" style=\"width:450px;height:280px;\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1.0469 + j 0.5134, 225.38W",
+        "b": "1.0469 - j 0.5134, 225.38W",
+        "c": "1.0469 + j 0.5134, 209.38W",
+        "d": "1.0469 - j 0.5134, 209.38W"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Determine the impedance Z<sub>L</sub> for maximum average power transfer and the value of the maximum average power transferred to Z<sub>L</sub> for the circuit shown in Figure.<br/><p style=\"text-align:center\"><img src=\"images/max4.jpg\" style=\"width:450px;height:330px;\"></p>",
+      "answers": {
+        "a": "3 + j 4Ω, 12W",
+        "b": "3 - j 4Ω, 12W",
+        "c": "3 + j 4Ω, 16W",
+        "d": "3 - j 4Ω, 16W"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For the given circuit, determine the load impedance Z<sub>L</sub> that would be absorbed the maximum power.<br/><p style=\"text-align:center\"><img src=\"images/max5.jpg\" style=\"width:450px;height:280px;\"></p>",
+      "answers": {
+        "a": "4.0&ang;41.6&#176 Ω;",
+        "b": "5.0&ang;41.6&#176 Ω;",
+        "c": "6.0&ang;41.6&#176 Ω;",
+        "d": "7.0&ang;41.6&#176 Ω;"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Find the values for load resistance R and load inductance L so that the source with amplitude A=2√2 V and frequency w= 1000 rad/sec deliver the maximum power to the load. Find the value of power delivered to the load at these maximum values for R and L.<br/><p style=\"text-align:center\"><img src=\"images/max6.jpg\" style=\"width:450px;height:330px;\"></p>",
+      "answers": {
+        "a": "1.2 Ω, 4.75mH; 3.37mW;",
+        "b": "1.4 Ω, 4.75mH; 3.33mW;",
+        "c": "1.2 Ω, 4.73mH; 3.33mW;",
+        "d": "1.8 Ω, 4.73mH; 3.37mW;"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+
+
   ]
 }
